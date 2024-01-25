@@ -1,0 +1,71 @@
+header {
+    background: rgb(29,12,77);
+    background: -moz-linear-gradient(260deg, rgba(29,12,77,1) 27%, rgba(61,124,251,1) 100%);
+    background: -webkit-linear-gradient(260deg, rgba(29,12,77,1) 27%, rgba(61,124,251,1) 100%);
+    background: linear-gradient(260deg, rgba(29,12,77,1) 27%, rgba(61,124,251,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#1d0c4d",endColorstr="#3d7cfb",GradientType=1);
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.dayCards {
+    background-color: #485864;
+    color: white;
+}
+
+.btn {
+    width: 100%;
+}
+
+#today {
+    border: 1px solid black;
+}
+
+.container-fluid {
+    margin-left: 0px !important;
+    /* margin-right: 0px !important; */
+  }
+
+.hide {
+    display: none;
+}
+
+h1, h2, h3, h4, h5{
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+h3 {
+    font-size: 23px;
+    padding-left: 0 !important; 
+}
+
+h5 {
+    font-size: 16px;
+}
+
+p {
+    font-size: 14px;
+}
+
+#forecast {
+    margin-left: 0;
+}
+
+.row {
+    margin-right: 0 !important;
+}
+
+#form-heading {
+    font-size: 24px;
+}
